@@ -1,0 +1,38 @@
+fieldLayouts:
+  6255ce4d-498a-4cf6-a8bc-65f46642170a:
+    tabs:
+      -
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\TitleField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+handle: general
+hasUrls: true
+name: General
+settings:
+  path: '@webroot/assets/general'
+sortOrder: 2
+type: craft\volumes\Local
+url: '@web/assets/general'
