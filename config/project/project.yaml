@@ -1,4 +1,4 @@
-dateModified: 1604378180
+dateModified: 1604442022
 email:
   fromEmail: oosacker@gmail.com
   fromName: Test
@@ -9,7 +9,7 @@ plugins:
     enabled: true
     schemaVersion: 2.3.0
 system:
-  edition: solo
+  edition: pro
   live: true
   name: Test
   schemaVersion: 3.5.13
