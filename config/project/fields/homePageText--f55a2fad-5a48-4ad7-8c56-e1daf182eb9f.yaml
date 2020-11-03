@@ -1,0 +1,27 @@
+contentColumnType: text
+fieldGroup: 23793258-70db-4f0f-88b4-1fb7af3a319c
+handle: homePageText
+instructions: 'Enter text here...'
+name: 'Home Page Text'
+searchable: true
+settings:
+  availableTransforms: '*'
+  availableVolumes: '*'
+  cleanupHtml: true
+  columnType: text
+  configSelectionMode: choose
+  defaultTransform: ''
+  manualConfig: ''
+  purifierConfig: ''
+  purifyHtml: '1'
+  redactorConfig: ''
+  removeEmptyTags: '1'
+  removeInlineStyles: '1'
+  removeNbsp: '1'
+  showHtmlButtonForNonAdmins: '1'
+  showUnpermittedFiles: true
+  showUnpermittedVolumes: false
+  uiMode: enlarged
+translationKeyFormat: null
+translationMethod: none
+type: craft\redactor\Field
