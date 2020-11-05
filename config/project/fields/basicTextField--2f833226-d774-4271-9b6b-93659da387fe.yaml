@@ -1,0 +1,18 @@
+contentColumnType: text
+fieldGroup: 0adce1fb-1035-4e6c-8745-efd65312b209
+handle: basicTextField
+instructions: ''
+name: 'Basic text field'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '10'
+  multiline: '1'
+  placeholder: ''
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

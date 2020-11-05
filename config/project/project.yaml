@@ -1,4 +1,4 @@
-dateModified: 1604442022
+dateModified: 1604550286
 email:
   fromEmail: oosacker@gmail.com
   fromName: Test
@@ -11,9 +11,10 @@ plugins:
 system:
   edition: pro
   live: true
-  name: Test
+  name: 'Craft Test Site'
+  retryDuration: null
   schemaVersion: 3.5.13
-  timeZone: America/Los_Angeles
+  timeZone: Pacific/Auckland
 users:
   allowPublicRegistration: false
   defaultGroup: null

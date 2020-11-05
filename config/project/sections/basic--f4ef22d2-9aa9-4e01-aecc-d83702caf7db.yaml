@@ -1,0 +1,23 @@
+enableVersioning: true
+handle: basic
+name: Basic
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  359b7ac5-e4ab-47a2-a1c3-f98cc1d323a0:
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: 'basic/{slug}'
+type: channel
